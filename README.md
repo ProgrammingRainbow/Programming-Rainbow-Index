@@ -7,7 +7,7 @@
 [Beginners Guide to SDL3 in C](https://github.com/ProgrammingRainbow/Beginners-Guide-to-SDL3-in-C)\
 [Beginners Guide to SDL2 in COBOL](https://github.com/ProgrammingRainbow/Beginners-Guide-to-SDL2-in-COBOL)\
 [Beginners Guide to SDL2 in Cpp](https://github.com/ProgrammingRainbow/Beginners-Guide-to-SDL2-in-Cpp)\
-[Beginners Guide to SDL3 in Cpp](https://github.com/ProgrammingRainbow/Beginners-Guide-to-SDL3-in-Cpp)
+[Beginners Guide to SDL3 in Cpp](https://github.com/ProgrammingRainbow/Beginners-Guide-to-SDL3-in-Cpp)\
 [Beginners Guide to SDL2 in Gforth](https://github.com/ProgrammingRainbow/Beginners-Guide-to-SDL2-in-Gforth)\
 [Beginners Guide to SDL2 in Go](https://github.com/ProgrammingRainbow/Beginners-Guide-to-SDL2-in-Go)\
 [Beginners Guide to SDL2 in Haskell](https://github.com/ProgrammingRainbow/Beginners-Guide-to-SDL2-in-Haskell)\
@@ -24,11 +24,6 @@
 [Yellow Snow - Lua - Love2D](https://github.com/ProgrammingRainbow/Yellow-Snow-Lua-Love2D)\
 [Yellow Snow - Odin - SDL2](https://github.com/ProgrammingRainbow/Yellow-Snow-Odin-SDL2)
 
-## Super Clock
-[Super Clock - C - SDL2](https://github.com/ProgrammingRainbow/Super-Clock-C-SDL2)\
-[Super Clock - Cpp - SDL2](https://github.com/ProgrammingRainbow/Super-Clock-Cpp-SDL2)\
-[Super Clock Love2D](https://github.com/ProgrammingRainbow/Super-Clock-Love2D)
-
 ## Conway's Game of Life
 [Conway's Game of Life - C - SDL2](https://github.com/ProgrammingRainbow/Conways-Game-of-Life-C-SDL2)\
 [Conway's Game of Life - C - SDL3](https://github.com/ProgrammingRainbow/Conways-Game-of-Life-C-SDL3)\
@@ -36,3 +31,8 @@
 [Conway's Game of Life - Cpp - SDL3](https://github.com/ProgrammingRainbow/Conways-Game-of-Life-Cpp-SDL3)\
 [Conway's Game of Life - Love2D](https://github.com/ProgrammingRainbow/Conways-Game-of-Life-Love2D)\
 [Conway's Game of Life - Odin - SDL2](https://github.com/ProgrammingRainbow/Conways-Game-of-Life-Odin-SDL2)
+
+## Super Clock
+[Super Clock - C - SDL2](https://github.com/ProgrammingRainbow/Super-Clock-C-SDL2)\
+[Super Clock - Cpp - SDL2](https://github.com/ProgrammingRainbow/Super-Clock-Cpp-SDL2)\
+[Super Clock Love2D](https://github.com/ProgrammingRainbow/Super-Clock-Love2D)

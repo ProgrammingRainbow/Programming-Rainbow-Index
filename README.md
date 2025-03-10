@@ -35,4 +35,4 @@
 ## Super Clock
 [Super Clock - C - SDL2](https://github.com/ProgrammingRainbow/Super-Clock-C-SDL2)\
 [Super Clock - Cpp - SDL2](https://github.com/ProgrammingRainbow/Super-Clock-Cpp-SDL2)\
-[Super Clock Love2D](https://github.com/ProgrammingRainbow/Super-Clock-Love2D)
+[Super Clock - Love2D](https://github.com/ProgrammingRainbow/Super-Clock-Love2D)
